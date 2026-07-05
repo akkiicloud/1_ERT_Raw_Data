@@ -43,7 +43,7 @@ These datasets are provided to ensure the transparency and reproducibility of th
 - ERT preprocessing
 - Data quality assessment
 - Array-specific analysis (DD and MG)
-- Inversion using software such as PyGIMLi, BERT, or ResIPy
+- Inversion using software such as PyGIMLi, BERT, or ResIPy etc.
 - Reproducibility of the published results
 
 ---
